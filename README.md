@@ -10,6 +10,8 @@ Round Timer in Kotlin
 
 Each timer starts independently and will play a beep sound each time it reaches zero, then will keep restarting until cancelled. Multiple timers can run simultaneously.
 
+<img src="/roundtimer.png" height=396 width=216>
+
 Coming features:
 * Switch to enable/disable timer auto-restart
 * Changing the timer duration
