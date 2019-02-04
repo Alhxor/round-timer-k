@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/root_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    android:orientation="vertical"
+    android:weightSum="5"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button1"
+        style="@style/ButtonTimerStyle"
+        android:text="@string/_00_30" />
+
+    <Button
+        android:id="@+id/button2"
+        style="@style/ButtonTimerStyle"
+        android:text="@string/_01_00" />
+
+    <Button
+        android:id="@+id/button3"
+        style="@style/ButtonTimerStyle"
+        android:text="@string/_01_30" />
+
+    <Button
+        android:id="@+id/button4"
+        style="@style/ButtonTimerStyle"
+        android:text="@string/_02_00" />
+
+    <Button
+        android:id="@+id/button5"
+        style="@style/ButtonTimerStyle"
+        android:text="@string/_03_00" />
+</LinearLayout>

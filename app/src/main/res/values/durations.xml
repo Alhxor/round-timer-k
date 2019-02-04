@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="_00_30">30000</integer>
+    <integer name="_01_00">60000</integer>
+    <integer name="_01_30">90000</integer>
+    <integer name="_02_00">120000</integer>
+    <integer name="_03_00">180000</integer>
+</resources>
