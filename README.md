@@ -14,3 +14,5 @@ Coming features:
 * Switch to enable/disable timer auto-restart
 * Changing the timer duration
 * More custom settings
+* Custom sounds
+* Adding and deleting timers
