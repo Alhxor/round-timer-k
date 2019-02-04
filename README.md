@@ -1,5 +1,5 @@
-# round-timer-k
-Round Timer in Kotlin
+# Round Timer
+An android application written in Kotlin.
 
 5 timers with predefined durations:
 * 00:30
